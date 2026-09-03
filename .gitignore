@@ -1,0 +1,198 @@
+# ============================================================
+# RAG It! — Multimodal Local RAG Pipeline
+# .gitignore
+# ============================================================
+
+
+# ============================================================
+# Python
+# ============================================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-wheel-metadata/
+*.spec
+
+
+# ============================================================
+# Virtual Environments
+# ============================================================
+
+.venv/
+venv/
+env/
+ENV/
+.env
+.venv.bak/
+venv.bak/
+
+
+# ============================================================
+# Jupyter
+# ============================================================
+
+.ipynb_checkpoints
+*.ipynb
+
+
+# ============================================================
+# Model Weights  <- NEVER commit large model files
+# ============================================================
+
+models/*
+!models/.gitkeep
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.gguf
+*.onnx
+*.ckpt
+
+
+# ============================================================
+# Vector Database  <- Local Qdrant state (user-specific)
+# ============================================================
+
+qdrant_data/*
+!qdrant_data/.gitkeep
+qdrant_data_backup/
+
+
+# ============================================================
+# Extracted Document Artifacts  <- User data, not source code
+# ============================================================
+
+data/parsed/*
+!data/parsed/.gitkeep
+data/images/*
+!data/images/.gitkeep
+data/tables/*
+!data/tables/.gitkeep
+data/metadata/*
+!data/metadata/.gitkeep
+data/chunks/*
+!data/chunks/.gitkeep
+data/catalog.json
+
+
+# ============================================================
+# User Documents  <- Private / copyrighted PDFs
+# ============================================================
+
+documents/*
+!documents/.gitkeep
+docs/
+
+
+# ============================================================
+# IDE & Editor
+# ============================================================
+
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.continue/
+*.code-workspace
+
+
+# ============================================================
+# OS Generated
+# ============================================================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+
+# ============================================================
+# Logs & Temp Files
+# ============================================================
+
+*.log
+*.tmp
+*.temp
+tempCodeRunnerFile.py
+*.bak
+*.orig
+
+
+# ============================================================
+# Testing & Coverage
+# ============================================================
+
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+report.html
+
+
+# ============================================================
+# Distribution / Build
+# ============================================================
+
+dist/
+build/
+*.whl
+
+
+# ============================================================
+# Secrets & Environment Variables  <- NEVER commit credentials
+# ============================================================
+
+.env
+.env.*
+secrets.json
+*.key
+*.pem
+
+
+# ============================================================
+# Hugging Face Cache  <- Downloaded model caches (large)
+# ============================================================
+
+.cache/
+~/.cache/huggingface/
+
+
+# ============================================================
+# Hidden system folders
+# ============================================================
+
+.agents/
+.src/

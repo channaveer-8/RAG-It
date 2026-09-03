@@ -1,0 +1,112 @@
+[
+  {
+    "query": "electric vehicle battery",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000011",
+      "213b0256cb0f766f_chunk_000008"
+    ]
+  },
+  {
+    "query": "electric vehicle motor",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000011",
+      "213b0256cb0f766f_chunk_000013",
+      "213b0256cb0f766f_chunk_000014"
+    ]
+  },
+  {
+    "query": "vehicle dashboard",
+    "relevant_chunks": [
+      "ea4343a1ae783d7a_chunk_000022"
+    ]
+  },
+  {
+    "query": "electronic differential",
+    "relevant_chunks": [
+      "ea4343a1ae783d7a_chunk_000001",
+      "ea4343a1ae783d7a_chunk_000002",
+      "ea4343a1ae783d7a_chunk_000003",
+      "ea4343a1ae783d7a_chunk_000007",
+      "ea4343a1ae783d7a_chunk_000008",
+      "ea4343a1ae783d7a_chunk_000009"
+    ]
+  },
+  {
+    "query": "battery voltage",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000008"
+    ]
+  },
+  {
+    "query": "electric vehicle energy consumption",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000002",
+      "213b0256cb0f766f_chunk_000003",
+      "213b0256cb0f766f_chunk_000004",
+      "213b0256cb0f766f_chunk_000005"
+    ]
+  },
+  {
+    "query": "in-wheel motor",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000011",
+      "213b0256cb0f766f_chunk_000013",
+      "213b0256cb0f766f_chunk_000014"
+    ]
+  },
+  {
+    "query": "torque distribution",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000013",
+      "213b0256cb0f766f_chunk_000014",
+      "213b0256cb0f766f_chunk_000015"
+    ]
+  },
+  {
+    "query": "vehicle control strategy",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000017"
+    ]
+  },
+  {
+    "query": "electric vehicle safety",
+    "relevant_chunks": [
+      "ea4343a1ae783d7a_chunk_000002",
+      "ea4343a1ae783d7a_chunk_000003"
+    ]
+  },
+  {
+    "query": "battery management system",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000013"
+    ]
+  },
+  {
+    "query": "motor speed and torque",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000013",
+      "213b0256cb0f766f_chunk_000014",
+      "213b0256cb0f766f_chunk_000015"
+    ]
+  },
+  {
+    "query": "vehicle component parameters",
+    "relevant_chunks": [
+      "213b0256cb0f766f_chunk_000008"
+    ]
+  },
+  {
+    "query": "electronic differential motor control",
+    "relevant_chunks": [
+      "ea4343a1ae783d7a_chunk_000007",
+      "ea4343a1ae783d7a_chunk_000008",
+      "ea4343a1ae783d7a_chunk_000009"
+    ]
+  },
+  {
+    "query": "electric vehicle prototype hardware",
+    "relevant_chunks": [
+      "ea4343a1ae783d7a_chunk_000022"
+    ]
+  }
+]
