@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="ui/assets/logo.svg" alt="RAG It! Logo" width="80">
+  <img src="ui/assets/rag_icon.svg" alt="RAG It! Logo" width="80">
   <br>
   RAG It!
   <br>
