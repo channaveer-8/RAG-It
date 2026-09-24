@@ -16,8 +16,7 @@
   <img src="https://img.shields.io/badge/PyTorch-2.13-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySide6-6.11-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qdrant-1.19-DC244C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-FCC624?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -400,12 +399,6 @@ The collection is created automatically on first document ingestion. No manual s
 
 See [`docs/ROADMAP_AND_IMPROVEMENTS.md`](docs/ROADMAP_AND_IMPROVEMENTS.md) for detailed plans.
 See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for full architectural diagrams.
-
----
-
-## License
-
-MIT License — see [`LICENSE`](LICENSE) for details.
 
 ---
 
